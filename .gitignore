@@ -5,7 +5,7 @@ semantic/
 .env
 
 # Output
-app/client/build/
+# app/client/build/
 
 # macOS
 .DS_Store
