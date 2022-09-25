@@ -42,6 +42,7 @@
     "mongo": "mongod --dbpath db",
     "start": "node app.js",
     "build": "",
+    "heroku-postbuild": "",
     "dev": "nodemon app.js",
     "watch": "gulp server",
     "prod": "node app.js",
