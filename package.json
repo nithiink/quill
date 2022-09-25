@@ -41,6 +41,7 @@
   "scripts": {
     "mongo": "mongod --dbpath db",
     "start": "node app.js",
+    "build": "",
     "dev": "nodemon app.js",
     "watch": "gulp server",
     "prod": "node app.js",
