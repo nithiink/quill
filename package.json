@@ -43,7 +43,7 @@
     "start": "node app.js",
     "dev": "nodemon app.js",
     "watch": "gulp server",
-    "prod": "gulp build && node app.js",
+    "prod": "node app.js",
     "config": "cp .env.config .env",
     "test": "jest --forceExit",
     "test:accessibility": "pa11y-ci",
